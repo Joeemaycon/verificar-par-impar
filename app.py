@@ -1,7 +1,6 @@
 #update
 # While para que o Programa não feche
 while True:
-
     try:
         # Input para pedir o valor
         valor = int(input('Digite um valor: '))
